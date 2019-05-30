@@ -33,9 +33,16 @@ this folder contains template files and exercises to practice using Git and GitH
 
 ### References and Helpful Resources ###   
 
-[Software Carpentry Git Intro](https://swcarpentry.github.io/git-novice/) 
-[Our Coding Club's Git for Labs](https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
-[Matt Malishev's GitHub presentation for Emory](https://github.com/darwinanddavis/githubpres)
+Tutorials
+* [Software Carpentry Git Intro](https://swcarpentry.github.io/git-novice/) 
+
+Git and GitHub for research
+* [Our Coding Club's Git for Labs](https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
+* [Matt Malishev's GitHub presentation for Emory](https://github.com/darwinanddavis/githubpres)
+* [Blischak et al., 2016 Intro to Git for Research](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004668&type=printable)
+
+Other helpful tools
+* [Common Git Commands Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 ### Maintainer ###
 
