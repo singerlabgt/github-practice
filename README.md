@@ -1,7 +1,7 @@
-# github-practice
+## github-practice ##
 **example repo to practice using GitHub as a lab**
 
-## Overview ##
+### Overview ###
 this folder contains template files and exercises to practice using Git and GitHub
   * template files
     * [README.md](README.md) - this can be used as an example, edit as needed for your repo
@@ -13,7 +13,7 @@ this folder contains template files and exercises to practice using Git and GitH
     * using code from lab repos and pulling/pushing updates
     * interfacing Git with Matlab
     
-## Exercise 1 - setting up Git and GitHub ##
+### Exercise 1 - setting up Git and GitHub ###
   1. Install Git on your computer
     * Mac:
     * Windows:
@@ -25,15 +25,15 @@ this folder contains template files and exercises to practice using Git and GitH
       git config --global user.name "Your Name"
       git config --global user.email "youremail.edu"
       ```
-## Exercise 2 - getting code from lab GitHub repos and pulling/pushing updates ##
+### Exercise 2 - getting code from lab GitHub repos and pulling/pushing updates ###
   
-## Exercise 3 - interfacing with Git and Matlab ##
+### Exercise 3 - interfacing with Git and Matlab ###
 
     
-## References    
+### References ###   
 
-[Our coding club's Git for labs] (https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
+[Our Coding Club Git for Labs](https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
 
-## Maintainer ##
+### Maintainer ###
 
 Contact Steph Prince if you have any questions or would like help using this code
