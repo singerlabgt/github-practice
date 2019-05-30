@@ -35,7 +35,7 @@ this folder contains template files and exercises to practice using Git and GitH
 ## References and Helpful Resources ##   
 
 Tutorials
-* [Software Carpentry Git Intro](https://swcarpentry.github.io/git-novice/) 
+* [Software Carpentry Version Control with Git](https://swcarpentry.github.io/git-novice/) 
 
 Git and GitHub for research
 * [Our Coding Club's Git for Labs](https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
