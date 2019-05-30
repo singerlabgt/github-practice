@@ -1,12 +1,13 @@
 # github-practice
-**example files and exercises to practice using GitHub as a lab**
+**example repo to practice using GitHub as a lab**
 
 ## Overview ##
-this folder contains template files and exercises
+this folder contains template files and exercises to practice using Git and GitHub
   * template files
-    * .gitattributes
-    * .gitignore
-    * README.md
+    * [README.md](README.md) - this can be used as an example, edit as needed for your repo
+    * [.gitattributes](.gitattributes) - this can be copied directly to any repo using Matlab code
+    * [.gitignore](.gitignore) - this can be copied directly to any repo using Matlab code
+    * [github-etiquette.md](github-etiquette.md) - this is an outline of etiquette and rules when using the lab GitHub page
   * exercises
     * setting up Git and GitHub
     * using code from lab repos and pulling/pushing updates
@@ -16,7 +17,7 @@ this folder contains template files and exercises
   1. Install Git on your computer
     * Mac:
     * Windows:
-  2. Make a GitHub account
+  2. Make a GitHub accounfilest
   3. Configure settings on your computer.
     * Go to the command line and enter the following:
   
@@ -30,6 +31,8 @@ this folder contains template files and exercises
 
     
 ## References    
+
+[Our coding club's Git for labs] (https://ourcodingclub.github.io/2017/05/15/git-for-labs.html)
 
 ## Maintainer ##
 
