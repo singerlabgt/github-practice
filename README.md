@@ -1,7 +1,7 @@
 ## github-practice ##
 **example repo to practice using GitHub as a lab**
 
-### Overview ###
+## Overview ##
 this folder contains template files and exercises to practice using Git and GitHub
   * template files
     * [README.md](README.md) - this can be used as an example, edit as needed for your repo
@@ -12,7 +12,8 @@ this folder contains template files and exercises to practice using Git and GitH
     * setting up Git and GitHub
     * using code from lab repos and pulling/pushing updates
     * interfacing Git with Matlab
-    
+
+## Exercises ##
 ### Exercise 1 - setting up Git and GitHub ###
   1. Install Git on your computer
    * Mac: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
@@ -31,7 +32,7 @@ this folder contains template files and exercises to practice using Git and GitH
 
 
 
-### References and Helpful Resources ###   
+## References and Helpful Resources ##   
 
 Tutorials
 * [Software Carpentry Git Intro](https://swcarpentry.github.io/git-novice/) 
