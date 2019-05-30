@@ -8,6 +8,7 @@ this folder contains template files and exercises to practice using Git and GitH
     * [.gitattributes](.gitattributes) - this can be copied directly to any repo using Matlab code
     * [.gitignore](.gitignore) - this can be copied directly to any repo using Matlab code
     * [github-etiquette.md](github-etiquette.md) - this is an outline of etiquette and rules when using the lab GitHub page
+    * [coding-etiquette.md](coding-etiquette.md) - general guidelines for writing code in the lab
   * exercises
     * setting up Git and GitHub
     * using code from lab repos and pulling/pushing updates
