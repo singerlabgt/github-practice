@@ -11,6 +11,7 @@ this folder contains template files and exercises to practice using Git and GitH
     * [coding-etiquette.md](coding-etiquette.md) - general guidelines for writing code in the lab
   * exercises
     * setting up Git and GitHub
+    * uploading your code to the lab github page
     * using code from lab repos and pulling/pushing updates
     * interfacing Git with Matlab
 
@@ -27,10 +28,17 @@ this folder contains template files and exercises to practice using Git and GitH
       git config --global user.email "youremail.edu"
       ```
       
-### Exercise 2 - getting code from lab GitHub repos and pulling/pushing updates ###
+### Exercise 2 - how to upload your code to GitHub ###
+ 1. Go to the singerlabgt GitHub page and click the 'Create New Repository' option in the top right corner. 
+ 2. Follow the setup instructions provided. For more details on the different options, [this page](http://swcarpentry.github.io/git-novice/07-github/index.html) provides a great explanation.
+ 3. Add the .gitignore, .gitattributes files found in the [github-practice folder](./).
+ 4. Write a README.md to document your code and how it works!
+ 
+### Exercise 3 - getting code from lab GitHub repos and pulling/pushing updates ###
+  *in progress*
   
-### Exercise 3 - interfacing with Git and Matlab ###
-
+### Exercise 4 - interfacing with Git and Matlab ###
+  *in progress*
 
 
 ## References and Helpful Resources ##   
