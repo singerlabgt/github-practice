@@ -29,9 +29,9 @@ this folder contains template files and exercises to practice using Git and GitH
       ```
       
 ### Exercise 2 - how to upload your code to GitHub ###
- 1. Go to the singerlabgt GitHub page and click the 'Create New Repository' option in the top right corner. 
+ 1. Go to the [Singer Lab GitHub](https://github.com/singerlabgt) and click the green 'Create New Repository' button on the right. 
  2. Follow the setup instructions provided. For more details on the different options, [this page](http://swcarpentry.github.io/git-novice/07-github/index.html) provides a great explanation.
- 3. Add the .gitignore, .gitattributes files found in the [github-practice folder](./).
+ 3. Add the .gitignore, .gitattributes files found in the [github-practice folder](https://github.com/singerlabgt/github-practice).
  4. Write a README.md to document your code and how it works!
  
 ### Exercise 3 - getting code from lab GitHub repos and pulling/pushing updates ###
