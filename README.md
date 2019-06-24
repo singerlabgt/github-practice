@@ -34,11 +34,19 @@ this folder contains template files and exercises to practice using Git and GitH
  4. Write a README.md to document your code and how it works!
  
 ### Exercise 3 - getting code from lab GitHub repos and pulling/pushing updates ###
-  *in progress*
-  
-### Exercise 4 - interfacing with Git and Matlab ###
-  *in progress*
-
+ 1. Clone the remote repository to your computer/the neuro-cloud server
+    ```shell
+      cd neuro-cloud/labs/singer/yourname/directorywhereyouwanttokeepthecode
+      git clone https://github.com/singerlabgt/github-practice
+    ```
+ 2. Link the repository webpage so you can get updates later
+    ```shell
+      git remote add origin https://github.com/singerlabgt/github-practice
+    ```
+ 3. To get updates added by other lab members, you can 'pull' them from the lab github page. Make sure any work you had done is committed before you do this (also see fetch/merge commands).
+    ```shell
+      git pull origin localbranchname
+    ```
 
 ## References and Helpful Resources ##   
 
