@@ -19,7 +19,7 @@ this folder contains template files and exercises to practice using Git and GitH
 ### Exercise 1 - setting up Git and GitHub ###
   1. Install Git on your computer
    * Mac: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
-   * Windows: [Install Git with Git Bash](https://www.sitereq.com/post/easiest-way-to-install-git-bash-commands-on-windows#git-bash-windows-installation)
+   * Windows: [Install Git with Git Bash](https://carpentries.github.io/workshop-template/#git)
   2. Make a GitHub account
   3. Configure settings on your computer - enter the following on the command line.
       ```shell
